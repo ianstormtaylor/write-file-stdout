@@ -1,0 +1,14 @@
+{
+  "name": "write-file-stdout",
+  "description": "Write to a file, falling back to stdout.",
+  "keywords": [
+    "write",
+    "file",
+    "stdout"
+  ],
+  "version": "0.0.1",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.15.1"
+  }
+}
