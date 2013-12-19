@@ -1,7 +1,6 @@
-
 # write-file-stdout
 
-  Read to file, falling back to stdout.
+  Write to a file, falling back to stdout.
 
 ## Installation
 
@@ -9,9 +8,9 @@
 
 ## API
 
-### write ([file], callback)
+### write ([file], contents)
 
-  Read to `file`, falling back to stdout.
+  Write `contents` to a `file`, falling back to stdout.
 
 ## License
 

@@ -1,4 +1,3 @@
-
 var fs = require('fs');
 
 /**
@@ -8,7 +7,7 @@ var fs = require('fs');
 module.exports = write;
 
 /**
- * Write to a `file`, falling back to stdout.
+ * Write `contents` to a `file`, falling back to stdout.
  *
  * @param {String} file
  * @param {String} contents
